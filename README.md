@@ -14,12 +14,12 @@
 
 I'm a B.Tech Computer Science Engineering student specializing in **Cyber Security**, working toward becoming a **Software Engineer** with strong, security-conscious engineering fundamentals.
 
-|                             |                                                                       |
-| --------------------------- | --------------------------------------------------------------------- |
-| **Focus**                   | Cyber Security, Java Development, DSA, System Design, Web Development |
-| **Currently Building**      | Secure, database-driven web applications                              |
-| **Currently Strengthening** | Data Structures & Algorithms, System Design                           |
-| **Goal**                    | Software Engineering roles — internships & placements                 |
+| | |
+|---|---|
+| **Focus** | Cyber Security, Java Development, DSA, System Design, Web Development |
+| **Currently Building** | Secure, database-driven web applications |
+| **Currently Strengthening** | Data Structures & Algorithms, System Design |
+| **Goal** | Software Engineering roles — internships & placements |
 
 <br/>
 
@@ -76,7 +76,7 @@ I'm a B.Tech Computer Science Engineering student specializing in **Cyber Securi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anurag-gg04/Anurag-gg04/main/github-metrics.svg" alt="GitHub Metrics" width="90%" />
+<img src="https://raw.githubusercontent.com/Anurag-gg04/Anurag-gg04/main/github-metrics.svg" alt="GitHub Metrics" width="65%" />
 
 </div>
 
@@ -92,7 +92,7 @@ I'm a B.Tech Computer Science Engineering student specializing in **Cyber Securi
 
 A secure banking web application featuring authentication, account management, and core banking operations.
 
-<img src="https://skillicons.dev/icons?i=java" height="28"/>
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js" height="28"/>
 
 **[View Repository →](https://github.com/Anurag-gg04/secure-bank-management-system)**
 
@@ -133,7 +133,7 @@ A responsive expense tracking application with an intuitive dashboard for managi
 
 <div align="center">
 
-_Great systems are not just built to work — they're built to withstand failure._
+*Great systems are not just built to work — they're built to withstand failure.*
 
 </div>
 
