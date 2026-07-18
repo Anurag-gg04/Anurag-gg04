@@ -16,7 +16,7 @@ I'm a B.Tech Computer Science Engineering student specializing in **Cyber Securi
 
 |                             |                                                                       |
 | --------------------------- | --------------------------------------------------------------------- |
-| **Focus**                   | Cyber Security, Java Development, DSA, System Design, Web Development |
+| **Focus**                   | Cyber Security, Java Development, DSA, Web Development |
 | **Currently Building**      | Secure, database-driven web applications                              |
 | **Currently Strengthening** | Data Structures & Algorithms, System Design                           |
 | **Goal**                    | Software Engineering roles — internships & placements                 |
