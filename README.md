@@ -92,7 +92,7 @@ I'm a B.Tech Computer Science Engineering student specializing in **Cyber Securi
 
 A secure banking web application featuring authentication, account management, and core banking operations.
 
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js" height="28"/>
+<img src="https://skillicons.dev/icons?i=java" height="28"/>
 
 **[View Repository →](https://github.com/Anurag-gg04/secure-bank-management-system)**
 
