@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Anurag%20Tomar&fontSize=46&fontColor=00D9FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Anurag%20Tomar&fontSize=46&fontColor=00D9FF&fontAlignY=38&desc=Software%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%7C+Cyber+Security;Aspiring+Software+Engineer;Java+%7C+DSA+%7C+System+Design;Building+Secure%2C+Scalable+Systems" alt="Typing SVG" />
 
@@ -14,21 +14,12 @@
 
 I'm a B.Tech Computer Science Engineering student specializing in **Cyber Security**, working toward becoming a **Software Engineer** with strong, security-conscious engineering fundamentals.
 
-<<<<<<< HEAD
-|                             |                                                                       |
-| --------------------------- | --------------------------------------------------------------------- |
-| **Focus**                   | Cyber Security, Java Development, DSA, Web Development |
-| **Currently Building**      | Secure, database-driven web applications                              |
-| **Currently Strengthening** | Data Structures & Algorithms, System Design                           |
-| **Goal**                    | Software Engineering roles — internships & placements                 |
-=======
 | | |
 |---|---|
 | **Focus** | Cyber Security, Java Development, DSA, System Design, Web Development |
 | **Currently Building** | Secure, database-driven web applications |
 | **Currently Strengthening** | Data Structures & Algorithms, System Design |
 | **Goal** | Software Engineering roles — internships & placements |
->>>>>>> 6cd2cc121ffbf2149b9e063d007965d6e5b28d0e
 
 <br/>
 
@@ -101,7 +92,7 @@ I'm a B.Tech Computer Science Engineering student specializing in **Cyber Securi
 
 A secure banking web application featuring authentication, account management, and core banking operations.
 
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js" height="28"/>
+<img src="https://skillicons.dev/icons?i=java" height="28"/>
 
 **[View Repository →](https://github.com/Anurag-gg04/secure-bank-management-system)**
 
