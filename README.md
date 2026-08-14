@@ -144,9 +144,19 @@ Actively practicing data structures and algorithms with a focus on interview-lev
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anurag-gg04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anurag's GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Anurag-gg04&theme=tokyonight&hide_border=true" alt="Anurag's GitHub Streak" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-gg04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <a href="https://github.com/Anurag-gg04">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anurag-gg04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Anurag's GitHub Stats" height="165"/>
+  </a>
+  <br><br>
+
+  <a href="https://github.com/Anurag-gg04">
+    <img src="https://streak-stats.demolab.com/?user=Anurag-gg04&theme=tokyonight&hide_border=true" alt="Anurag's GitHub Streak" height="165"/>
+  </a>
+  <br><br>
+
+  <a href="https://github.com/Anurag-gg04">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anurag-gg04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
+  </a>
 
 </div>
 
