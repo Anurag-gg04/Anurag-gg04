@@ -1,12 +1,3 @@
-<!--
-  SETUP NOTE (delete this comment once done):
-  The snake contribution animation near the GitHub Stats section requires a
-  one-time GitHub Action. In this repo, add .github/workflows/snake.yml using
-  the Platane/snk action (github.com/Platane/snk#readme), enable it under the
-  Actions tab, then replace Anurag-gg04 in that image URL with your
-  actual username. Everything else in this file works immediately.
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0EA5E9&height=180&section=header&text=Anurag%20Tomar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Java%20Developer&descAlignY=55&descSize=16" width="100%"/>
@@ -23,29 +14,28 @@ I build applications end-to-end — from vanilla JavaScript dashboards to Java s
 
 <br>
 
-## About Me
+## ⚡ About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (Cyber Security and Privacy) at DIT University, Dehradun
-- 🛡️ Cybersecurity Trainee Intern at Skillairo — remediated 15+ critical vulnerabilities and cut false-positive findings by 30% through manual exploitability validation
-- 💻 Comfortable across the stack — from vanilla JS frontends to Java backends with real cryptographic security
-- 🧩 Consistent DSA practice on LeetCode and GeeksforGeeks
-- 📈 Learning in public, building in public — every project here is functional, not a template
+- 🎓 **B.Tech** in Computer Science & Engineering *(Cyber Security & Privacy)* at **DIT University, Dehradun**
+- 🛡️ **Cybersecurity Trainee Intern at Skillairo** — remediated 15+ critical vulnerabilities and cut false-positive findings by 30% through manual exploitability validation
+- 💻 **Full-Stack Competency** — comfortable across vanilla JS frontends and secure Java backends
+- 🧩 **DSA Focus** — consistent problem-solving practice on LeetCode and GeeksforGeeks
+- 📈 **Building in Public** — focused on functional, secure, production-ready software
 
 <br>
 
 ## 🔭 Currently Working On
 
-- Strengthening DSA and problem-solving depth (Trees, Graphs, DP)
+- Strengthening DSA and problem-solving depth *(Trees, Graphs, DP)*
 - Building out backend-heavy Java projects with real security practices
 - Practicing web app penetration testing with Burp Suite and OWASP ZAP
-- Refining Git/GitHub workflow for cleaner, more collaborative commits
+- Refining Git/GitHub workflow for cleaner, collaborative development
 
 <br>
 
 ## 🛠️ Tech Stack
 
 **Languages**
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,19 +43,16 @@ I build applications end-to-end — from vanilla JavaScript dashboards to Java s
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Databases**
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Cybersecurity**
-
+**Cybersecurity & AppSec**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00B4E6?style=for-the-badge&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-84BD00?style=for-the-badge&logoColor=white)
 
-**Tools & Platform**
-
+**Tools & Environment**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -75,12 +62,12 @@ I build applications end-to-end — from vanilla JavaScript dashboards to Java s
 
 ## 💼 Experience
 
-**Cybersecurity Trainee Intern** · Skillairo — Remote
+**Cybersecurity Trainee Intern** · Skillairo *(Remote)*  
 `Jun 2026 – Aug 2026`
 
-- Remediated 15+ critical vulnerabilities across assessed applications by automating security assessment workflows with OpenVAS and Nessus
-- Diagnosed and prioritized root-cause issues using CVSS v3.1 and OWASP Top 10 frameworks to improve authentication and session-management reliability
-- Cut false-positive findings by 30% through systematic manual exploitability validation with Burp Suite Professional and Kali Linux
+- Remediated 15+ critical vulnerabilities across assessed applications by automating security assessment workflows with OpenVAS and Nessus.
+- Diagnosed and prioritized root-cause issues using CVSS v3.1 and OWASP Top 10 frameworks to improve authentication and session-management reliability.
+- Cut false-positive findings by 30% through systematic manual exploitability validation with Burp Suite Professional and Kali Linux.
 
 <br>
 
@@ -90,53 +77,52 @@ I build applications end-to-end — from vanilla JavaScript dashboards to Java s
 <tr>
 <td width="50%" valign="top">
 
-**📋 WorkFlowX — Kanban Dashboard**
+### 📋 WorkFlowX — Kanban Dashboard
+Responsive project-management dashboard with drag-and-drop task workflows, dynamic calendar views, and data visualization — built framework-free.
 
-Responsive project-management dashboard with drag-and-drop task workflows, dynamic calendar views, and data visualization — built without a framework.
-
-- Persistent client-side state via `localStorage`, removing the need for a backend
+- Persistent client-side state via `localStorage`
 - Reliable drag-and-drop across dynamically rendered cards using event delegation
 
 `JavaScript` `HTML5` `CSS3` `DOM API`
 
-[Repository](https://github.com/Anurag-gg04/WorkFlowx) · [Live Demo](https://workflwx.netlify.app/)
+[🔗 Repository](https://github.com/Anurag-gg04/WorkFlowx) · [🌐 Live Demo](https://workflwx.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
 
-**💸 Pocketify — Expense Tracker**
-
+### 💸 Pocketify — Expense Tracker
 Client-side financial tracking app with transaction search, category filtering, balance aggregation, and CSV export.
 
-- Interactive spending charts via Chart.js integration
-- Persistent transaction-processing logic for consistent balance updates across sessions
+- Interactive spending charts via `Chart.js` integration
+- Persistent transaction-processing logic for consistent balance updates
 
-`JavaScript` `Chart.js` `HTML` `CSS`
+`JavaScript` `Chart.js` `HTML5` `CSS3`
 
-[Repository](https://github.com/Anurag-gg04/Expense-Tracker-) · [Live Demo](https://pocketifyexpensetracker.netlify.app/)
+[🔗 Repository](https://github.com/Anurag-gg04/Expense-Tracker-) · [🌐 Live Demo](https://pocketifyexpensetracker.netlify.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🏦 Bank Management System**
+### 🏦 Bank Management System
+Java-based banking application featuring account management, authentication, transaction processing, and session handling.
 
-Java-based banking application with account management, authentication, transaction processing, and session handling.
-
-- HashMap-based structures for fast account lookup and active-session tracking
-- SHA-256 credential hashing via Java `MessageDigest` — eliminated plaintext PIN storage
+- `HashMap`-based structures for fast account lookup and active-session tracking
+- SHA-256 credential hashing via Java `MessageDigest` to prevent plaintext PIN exposure
 
 `Java` `OOP` `Collections` `Cryptography`
 
-[Repository](https://github.com/Anurag-gg04/secure-bank-management-system)
+[🔗 Repository](https://github.com/Anurag-gg04/secure-bank-management-system)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="center" align="center">
 
-<sub>More projects on GitHub →</sub>
+**Explore more repositories on GitHub**
 
-[![GitHub](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-gg04)
+<br>
+
+[![GitHub Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-gg04?tab=repositories)
 
 </td>
 </tr>
@@ -148,7 +134,7 @@ Java-based banking application with account management, authentication, transact
 
 Actively practicing data structures and algorithms with a focus on interview-level problem solving.
 
-**Platforms:** [LeetCode](YOUR_LEETCODE_URL) · [GeeksforGeeks](YOUR_GFG_URL)
+**Profiles:** [LeetCode](https://leetcode.com/) · [GeeksforGeeks](https://geeksforgeeks.org/)
 
 **Topics covered:** Arrays · Strings · Two Pointers · Searching · Sorting · Linked Lists · Stacks · Queues · Trees · Graphs · Dynamic Programming
 
@@ -158,12 +144,13 @@ Actively practicing data structures and algorithms with a focus on interview-lev
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anurag-gg04&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-gg04&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-gg04&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anurag-gg04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anurag's GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Anurag-gg04&theme=tokyonight&hide_border=true" alt="Anurag's GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-gg04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
+
+<br>
 
 <details>
 <summary><strong>📈 Contribution Activity Graph</strong></summary>
@@ -171,11 +158,13 @@ Actively practicing data structures and algorithms with a focus on interview-lev
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-gg04&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-gg04&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 </details>
+
+<br>
 
 <div align="center">
 
@@ -183,49 +172,14 @@ Actively practicing data structures and algorithms with a focus on interview-lev
 
 </div>
 
-<sub>⚙️ Snake animation generated from real commit history via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — requires a one-time workflow setup in your profile repo (see note below).</sub>
-
 <br>
 
 ## 🗺️ Developer Journey
 
-```
-🎓  Computer Science & Engineering — DIT University, Dehradun
-🔐  Cybersecurity & Privacy Specialization
-💻  Software Development Projects — Java, JavaScript, Web
-🛡️  Cybersecurity Internship & Vulnerability Assessment
-📚  Continuous DSA & Problem Solving Practice
-🚀  Preparing for Software Engineering Opportunities
-```
-
-<br>
-
-## 🏆 Achievements & Certifications
-
-- Finalist, CodeFusion Coding Competition — Manipal University Jaipur
-- Cybersecurity Job Simulation — Commonwealth Bank, Forage
-- Introduction to Cybersecurity — Cisco Networking Academy
-- Java Basics and CSS Basics — HackerRank
-
-<br>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-gg04)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomaranurag724@gmail.com)
-
-
-</div>
-
-<br>
-
-<div align="center">
-
-*Building software. Securing it too.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0EA5E9&height=100&section=footer" width="100%"/>
-
-</div>
+```text
+🎓  B.Tech in Computer Science & Engineering — DIT University, Dehradun
+🔐  Specialization in Cybersecurity & Privacy
+💻  Software Engineering — Java, JavaScript, Web Security
+🛡️  Cybersecurity Intern — Vulnerability Assessment & Mitigation
+📚  Active DSA Practice — Problem Solving & System Logic
+🚀  Preparing for SDE & Application Security Roles
