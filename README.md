@@ -216,7 +216,7 @@ Actively practicing data structures and algorithms with a focus on interview-lev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-gg04)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomaranurag724@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_7505410878-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917505410878)
+
 
 </div>
 
