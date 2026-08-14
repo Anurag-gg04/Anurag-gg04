@@ -2,15 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:38BDF8&height=200&section=header&text=Anurag%20Tomar&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+Developer;Cybersecurity+Enthusiast;DSA+Problem+Solver;Web+Developer;Build.+Secure.+Improve." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+secure%2C+practical+software;Java+%7C+Web+Development+%7C+Cybersecurity;DSA+Problem+Solver" alt="Typing SVG" />
 
 Software Engineering student specializing in **Cybersecurity &amp; Privacy**, building secure Java applications and practical web projects while gaining hands-on penetration testing experience.
 
 <a href="https://github.com/Anurag-gg04"><img src="https://img.shields.io/badge/GitHub-Anurag--gg04-181717?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
 <a href="mailto:tomaranurag724@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1a2e?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-
-<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 
 </div>
 
