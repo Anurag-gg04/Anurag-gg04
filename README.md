@@ -1,104 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0EA5E9&height=180&section=header&text=Anurag%20Tomar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Java%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0EA5E9&height=200&section=header&text=Anurag%20Tomar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Application%20Security%20%7C%20Java%20Developer&descAlignY=60&descSize=18" width="100%"/>
+
+<!-- Dynamic Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+Secure+Java+%26+JavaScript+Systems;Practicing+DSA+%26+Problem+Solving+Daily;Exploring+Web+Application+Penetration+Testing;Open+to+SDE+%26+Application+Security+roles&font=Fira+Code&center=true&width=620&height=45&color=0EA5E9&vCenter=true&size=18&pause=1500" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+with+Java+%26+JavaScript;Practicing+DSA+every+day;Exploring+Web+Application+Security;Open+to+SDE+%26+AppSec+roles&font=Fira+Code&center=true&width=560&height=45&color=2563EB&vCenter=true&size=20&pause=1500" alt="Typing SVG"/>
+<!-- Quick Info Pills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Dehradun%2C%20India-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20(Cyber%20Security)-2563EB?style=flat-square&logo=education&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20%2F%20AppSec-10B981?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Anurag-gg04&color=0EA5E9&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 </div>
 
-<br>
+---
 
-I build applications end-to-end — from vanilla JavaScript dashboards to Java systems with real cryptographic security — and I break (then help fix) web applications through penetration testing. Currently sharpening my Data Structures & Algorithms. Open to **Software Development Engineer** and **Application Security** opportunities.
+### ⚡ About Me
 
-<br>
+> I build resilient applications end-to-end — from interactive JavaScript dashboards to Java backends hardened with cryptographic security. On the security side, I break (and help remediate) web applications through structured penetration testing and vulnerability assessments.
 
-## ⚡ About Me
+* 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering *(Specialization in Cyber Security & Privacy)* at **DIT University, Dehradun**
+* 🛡️ **Hands-on AppSec:** Ex-Cybersecurity Trainee Intern at Skillairo — fixed 15+ critical vulnerabilities and reduced false-positive flags by 30% via manual exploitation.
+* 🧩 **DSA Practice:** Consistently tackling interview-grade Data Structures & Algorithms on LeetCode and GeeksforGeeks.
+* 🛠️ **Engineering Mindset:** Committed to writing clean, maintainable code and building production-ready projects in public.
 
-- 🎓 **B.Tech** in Computer Science & Engineering *(Cyber Security & Privacy)* at **DIT University, Dehradun**
-- 🛡️ **Cybersecurity Trainee Intern at Skillairo** — remediated 15+ critical vulnerabilities and cut false-positive findings by 30% through manual exploitability validation
-- 💻 **Full-Stack Competency** — comfortable across vanilla JS frontends and secure Java backends
-- 🧩 **DSA Focus** — consistent problem-solving practice on LeetCode and GeeksforGeeks
-- 📈 **Building in Public** — focused on functional, secure, production-ready software
+---
 
-<br>
+### 🛠️ Tech Stack & Tooling
 
-## 🔭 Currently Working On
+<div align="center">
 
-- Strengthening DSA and problem-solving depth *(Trees, Graphs, DP)*
-- Building out backend-heavy Java projects with real security practices
-- Practicing web app penetration testing with Burp Suite and OWASP ZAP
-- Refining Git/GitHub workflow for cleaner, collaborative development
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **AppSec & Pentesting** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00B4E6?style=flat-square&logoColor=white) ![OpenVAS](https://img.shields.io/badge/OpenVAS-84BD00?style=flat-square&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
-<br>
+</div>
 
-## 🛠️ Tech Stack
+---
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💼 Work Experience
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Cybersecurity & AppSec**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B4E6?style=for-the-badge&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-84BD00?style=for-the-badge&logoColor=white)
-
-**Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br>
-
-## 💼 Experience
-
-**Cybersecurity Trainee Intern** · Skillairo *(Remote)*  
+#### **Cybersecurity Trainee Intern** · *Skillairo (Remote)*
 `Jun 2026 – Aug 2026`
 
-- Remediated 15+ critical vulnerabilities across assessed applications by automating security assessment workflows with OpenVAS and Nessus.
-- Diagnosed and prioritized root-cause issues using CVSS v3.1 and OWASP Top 10 frameworks to improve authentication and session-management reliability.
-- Cut false-positive findings by 30% through systematic manual exploitability validation with Burp Suite Professional and Kali Linux.
+> **Key Impact & Contributions:**
+> * 🎯 **Vulnerability Remediation:** Resolved 15+ critical application vulnerabilities by automating scanning workflows with **OpenVAS** and **Nessus**.
+> * 🔍 **Root-Cause Analysis:** Utilized **CVSS v3.1** and **OWASP Top 10** frameworks to prioritize and harden authentication & session-management systems.
+> * 🛡️ **Exploit Validation:** Reduced false-positive findings by **30%** via systematic manual validation using **Burp Suite Professional** and **Kali Linux**.
 
-<br>
+---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📋 WorkFlowX — Kanban Dashboard
-Responsive project-management dashboard with drag-and-drop task workflows, dynamic calendar views, and data visualization — built framework-free.
+> *Framework-free, responsive project management application.*
 
-- Persistent client-side state via `localStorage`
-- Reliable drag-and-drop across dynamically rendered cards using event delegation
+* ⚡ **Key Features:** Drag-and-drop task management, dynamic calendar views, and client-side data analytics.
+* 🛠️ **Engineering:** Leveraged `localStorage` for persistent state and optimized event delegation across dynamically rendered DOM nodes.
 
-`JavaScript` `HTML5` `CSS3` `DOM API`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[🔗 Repository](https://github.com/Anurag-gg04/WorkFlowx) · [🌐 Live Demo](https://workflwx.netlify.app/)
+[💻 Repository](https://github.com/Anurag-gg04/WorkFlowx) · [🌐 Live Demo](https://workflwx.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💸 Pocketify — Expense Tracker
-Client-side financial tracking app with transaction search, category filtering, balance aggregation, and CSV export.
+> *Client-side financial monitoring and transaction analytics dashboard.*
 
-- Interactive spending charts via `Chart.js` integration
-- Persistent transaction-processing logic for consistent balance updates
+* ⚡ **Key Features:** Real-time transaction filtering, balance tracking, spending breakdown visual charts, and CSV data exports.
+* 🛠️ **Engineering:** Integrated **Chart.js** for visual reporting and built persistent transaction-processing logic across sessions.
 
-`JavaScript` `Chart.js` `HTML5` `CSS3`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-[🔗 Repository](https://github.com/Anurag-gg04/Expense-Tracker-) · [🌐 Live Demo](https://pocketifyexpensetracker.netlify.app/)
+[💻 Repository](https://github.com/Anurag-gg04/Expense-Tracker-) · [🌐 Live Demo](https://pocketifyexpensetracker.netlify.app/)
 
 </td>
 </tr>
@@ -106,46 +96,38 @@ Client-side financial tracking app with transaction search, category filtering, 
 <td width="50%" valign="top">
 
 ### 🏦 Bank Management System
-Java-based banking application featuring account management, authentication, transaction processing, and session handling.
+> *Secure Java banking application core with session management.*
 
-- `HashMap`-based structures for fast account lookup and active-session tracking
-- SHA-256 credential hashing via Java `MessageDigest` to prevent plaintext PIN exposure
+* ⚡ **Key Features:** Account creation, transaction processing, session handling, and authentication.
+* 🛠️ **Engineering:** Utilized Java `HashMap` structures for fast lookup ($O(1)$) and implemented **SHA-256** credential hashing via `MessageDigest` to prevent plaintext storage.
 
-`Java` `OOP` `Collections` `Cryptography`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Security-SHA--256-0EA5E9?style=flat-square)
 
-[🔗 Repository](https://github.com/Anurag-gg04/secure-bank-management-system)
+[💻 Repository](https://github.com/Anurag-gg04/secure-bank-management-system)
 
 </td>
 <td width="50%" valign="center" align="center">
 
-**Explore more repositories on GitHub**
+### 🔍 Want to see more?
+
+Explore all open-source projects, tools, and security experiments on my GitHub repository tab.
 
 <br>
 
-[![GitHub Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-gg04?tab=repositories)
+[![View All Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-gg04?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## 🧠 DSA & Problem Solving
+### 🧠 Problem Solving & DSA Focus
 
-Actively practicing data structures and algorithms with a focus on interview-level problem solving.
-
-**Profiles:** [LeetCode](https://leetcode.com/) · [GeeksforGeeks](https://geeksforgeeks.org/)
-
-**Topics covered:** Arrays · Strings · Two Pointers · Searching · Sorting · Linked Lists · Stacks · Queues · Trees · Graphs · Dynamic Programming
-
-<br>
-
-## 🗺️ Developer Journey
+<div align="center">
 
 ```text
-🎓  B.Tech in Computer Science & Engineering — DIT University, Dehradun
-🔐  Specialization in Cybersecurity & Privacy
-💻  Software Engineering — Java, JavaScript, Web Security
-🛡️  Cybersecurity Intern — Vulnerability Assessment & Mitigation
-📚  Active DSA Practice — Problem Solving & System Logic
-🚀  Preparing for SDE & Application Security Roles
+  [ Arrays & Strings ]  ──►  [ Two Pointers & Searching ]  ──►  [ Stacks & Queues ]
+                                                                      │
+  [ Dynamic Programming ] ◄──  [ Trees & Graphs ]  ◄──────────────────┘
