@@ -1,20 +1,33 @@
+<!--
+  SETUP NOTE (delete this comment once done):
+  The snake contribution animation near the GitHub Stats section requires a
+  one-time GitHub Action. In this repo, add .github/workflows/snake.yml using
+  the Platane/snk action (github.com/Platane/snk#readme), enable it under the
+  Actions tab, then replace Anurag-gg04 in that image URL with your
+  actual username. Everything else in this file works immediately.
+-->
+
 <div align="center">
 
-# Hi, I'm Anurag Tomar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0EA5E9&height=180&section=header&text=Anurag%20Tomar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Java%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
-### Software Engineer | Cybersecurity Enthusiast | Java Developer
+<br>
 
-I build backend-focused applications with Java and Django, and I break (then help fix) web applications through penetration testing. Currently sharpening my Data Structures & Algorithms and exploring React/Node.js. Open to **Software Development Engineer** and **Application Security** opportunities.
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+with+Java+%26+JavaScript;Practicing+DSA+every+day;Exploring+Web+Application+Security;Open+to+SDE+%26+AppSec+roles&font=Fira+Code&center=true&width=560&height=45&color=2563EB&vCenter=true&size=20&pause=1500" alt="Typing SVG"/>
 
 </div>
+
+<br>
+
+I build applications end-to-end — from vanilla JavaScript dashboards to Java systems with real cryptographic security — and I break (then help fix) web applications through penetration testing. Currently sharpening my Data Structures & Algorithms. Open to **Software Development Engineer** and **Application Security** opportunities.
 
 <br>
 
 ## About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (Cyber Security and Privacy) at DIT University, Dehradun
-- 🛡️ Cybersecurity Trainee Intern at Skillairo — hands-on with vulnerability assessment and web app security
-- 💻 Comfortable across the stack — from Java backends to Django web apps to network-level programming
+- 🛡️ Cybersecurity Trainee Intern at Skillairo — remediated 15+ critical vulnerabilities and cut false-positive findings by 30% through manual exploitability validation
+- 💻 Comfortable across the stack — from vanilla JS frontends to Java backends with real cryptographic security
 - 🧩 Consistent DSA practice on LeetCode and GeeksforGeeks
 - 📈 Learning in public, building in public — every project here is functional, not a template
 
@@ -23,8 +36,7 @@ I build backend-focused applications with Java and Django, and I break (then hel
 ## 🔭 Currently Working On
 
 - Strengthening DSA and problem-solving depth (Trees, Graphs, DP)
-- Building out backend-heavy Java and Django projects
-- Learning React and Node.js for full-stack capability
+- Building out backend-heavy Java projects with real security practices
 - Practicing web app penetration testing with Burp Suite and OWASP ZAP
 - Refining Git/GitHub workflow for cleaner, more collaborative commits
 
@@ -39,11 +51,6 @@ I build backend-focused applications with Java and Django, and I break (then hel
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Backend & Frameworks**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Databases**
 
@@ -66,94 +73,70 @@ I build backend-focused applications with Java and Django, and I break (then hel
 
 <br>
 
+## 💼 Experience
+
+**Cybersecurity Trainee Intern** · Skillairo — Remote
+`Jun 2026 – Aug 2026`
+
+- Remediated 15+ critical vulnerabilities across assessed applications by automating security assessment workflows with OpenVAS and Nessus
+- Diagnosed and prioritized root-cause issues using CVSS v3.1 and OWASP Top 10 frameworks to improve authentication and session-management reliability
+- Cut false-positive findings by 30% through systematic manual exploitability validation with Burp Suite Professional and Kali Linux
+
+<br>
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎓 Campus Placement Tracker**
-Django platform with authentication, student dashboards, eligibility checking, and interview scheduling.
+**📋 WorkFlowX — Kanban Dashboard**
 
-`Django` `Python` `MySQL` `Authentication`
+Responsive project-management dashboard with drag-and-drop task workflows, dynamic calendar views, and data visualization — built without a framework.
 
-[Repository](YOUR_REPOSITORY_URL)
+- Persistent client-side state via `localStorage`, removing the need for a backend
+- Reliable drag-and-drop across dynamically rendered cards using event delegation
 
-</td>
-<td width="50%">
+`JavaScript` `HTML5` `CSS3` `DOM API`
 
-**🎬 Online Movie Ticket Booking System**
-Full web application with database integration and structured backend architecture.
-
-`Django` `Python` `MySQL`
-
-[Repository](YOUR_REPOSITORY_URL)
+[Repository](https://github.com/Anurag-gg04/WorkFlowx) · [Live Demo](https://workflwx.netlify.app/)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏦 Java Banking Application**
-Console-based banking system handling deposits, withdrawals, and balance management.
+**💸 Pocketify — Expense Tracker**
 
-`Java` `OOP`
+Client-side financial tracking app with transaction search, category filtering, balance aggregation, and CSV export.
 
-[Repository](YOUR_REPOSITORY_URL)
+- Interactive spending charts via Chart.js integration
+- Persistent transaction-processing logic for consistent balance updates across sessions
 
-</td>
-<td width="50%">
+`JavaScript` `Chart.js` `HTML` `CSS`
 
-**💰 Java Expense Tracker**
-Application for logging and managing personal expenses and transaction history.
-
-`Java` `OOP`
-
-[Repository](YOUR_REPOSITORY_URL)
+[Repository](https://github.com/Anurag-gg04/Expense-Tracker-) · [Live Demo](https://pocketifyexpensetracker.netlify.app/)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📡 TCP Pub-Sub Messaging System**
-Client/server messaging system built over TCP sockets, demonstrating core networking concepts.
+**🏦 Bank Management System**
 
-`Java` `Networking` `Sockets`
+Java-based banking application with account management, authentication, transaction processing, and session handling.
 
-[Repository](YOUR_REPOSITORY_URL)
+- HashMap-based structures for fast account lookup and active-session tracking
+- SHA-256 credential hashing via Java `MessageDigest` — eliminated plaintext PIN storage
 
-</td>
-<td width="50%">
+`Java` `OOP` `Collections` `Cryptography`
 
-**🔐 Image Steganography GUI**
-Security-focused GUI tool for hiding and extracting information within image files.
-
-`Java` `Security` `GUI`
-
-[Repository](YOUR_REPOSITORY_URL)
+[Repository](https://github.com/Anurag-gg04/secure-bank-management-system)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🚌 Bus Reservation System**
-C-based reservation system for managing seat bookings and passenger data.
+<sub>More projects on GitHub →</sub>
 
-`C` `Data Management`
-
-[Repository](YOUR_REPOSITORY_URL)
-
-</td>
-<td width="50%">
-
-**🌐 Web Portfolio**
-Personal portfolio site built with core web technologies.
-
-`HTML` `CSS` `JavaScript`
-
-[Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_LIVE_DEMO_URL)
+[![GitHub](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-gg04)
 
 </td>
 </tr>
@@ -175,10 +158,10 @@ Actively practicing data structures and algorithms with a focus on interview-lev
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anurag-gg04&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-gg04&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-gg04&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
@@ -188,11 +171,19 @@ Actively practicing data structures and algorithms with a focus on interview-lev
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-gg04&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 </details>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anurag-gg04/Anurag-gg04/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%"/>
+
+</div>
+
+<sub>⚙️ Snake animation generated from real commit history via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — requires a one-time workflow setup in your profile repo (see note below).</sub>
 
 <br>
 
@@ -201,11 +192,20 @@ Actively practicing data structures and algorithms with a focus on interview-lev
 ```
 🎓  Computer Science & Engineering — DIT University, Dehradun
 🔐  Cybersecurity & Privacy Specialization
-💻  Software Development Projects — Java, Django, Web
-🛡️  Cybersecurity Labs & Vulnerability Assessment
+💻  Software Development Projects — Java, JavaScript, Web
+🛡️  Cybersecurity Internship & Vulnerability Assessment
 📚  Continuous DSA & Problem Solving Practice
 🚀  Preparing for Software Engineering Opportunities
 ```
+
+<br>
+
+## 🏆 Achievements & Certifications
+
+- Finalist, CodeFusion Coding Competition — Manipal University Jaipur
+- Cybersecurity Job Simulation — Commonwealth Bank, Forage
+- Introduction to Cybersecurity — Cisco Networking Academy
+- Java Basics and CSS Basics — HackerRank
 
 <br>
 
@@ -214,9 +214,9 @@ Actively practicing data structures and algorithms with a focus on interview-lev
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-gg04)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomaranurag724@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_7505410878-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917505410878)
 
 </div>
 
@@ -225,5 +225,7 @@ Actively practicing data structures and algorithms with a focus on interview-lev
 <div align="center">
 
 *Building software. Securing it too.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0EA5E9&height=100&section=footer" width="100%"/>
 
 </div>
