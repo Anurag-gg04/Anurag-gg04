@@ -19,13 +19,13 @@ Software Engineering student specializing in **Cybersecurity &amp; Privacy**, bu
 ## 👨‍💻 About Me
 
 ```java
-public class AnuragTomar {
+class AnuragTomar implements SoftwareEngineer, CyberSecuritySpecialist {
 
-    String role = "Software Engineer";
+    String role          = "Software Engineer";
     String specialization = "Cybersecurity & Privacy";
-    String focus = "Java + Web Development + Security";
-
-    String education = "B.Tech CSE, DIT University Dehradun (2023-2027)";
+    String focus          = "Java • Web Dev • Security";
+    String education      = "B.Tech CSE, DIT University";
+    String duration        = "2023 – 2027";
 
     String[] interests = {
         "Data Structures & Algorithms",
@@ -34,9 +34,19 @@ public class AnuragTomar {
         "Secure Development"
     };
 
-    String mindset = "Build. Secure. Improve.";
+    @Override
+    public String mindset() {
+        return "Build. Secure. Improve.";
+    }
 }
 ```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/status-actively_building-38BDF8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/open_to-SDE_/_Cybersecurity_roles-38BDF8?style=flat-square&labelColor=0d1117" />
+
+</div>
 
 <br>
 
