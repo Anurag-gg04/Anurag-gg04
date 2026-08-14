@@ -1,142 +1,229 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Anurag%20Tomar&fontSize=46&fontColor=00D9FF&fontAlignY=38&desc=Software%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+# Hi, I'm Anurag Tomar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%7C+Cyber+Security;Aspiring+Software+Engineer;Java+%7C+DSA+%7C+System+Design;Building+Secure%2C+Scalable+Systems" alt="Typing SVG" />
+### Software Engineer | Cybersecurity Enthusiast | Java Developer
 
-<img src="https://komarev.com/ghpvc/?username=Anurag-gg04&label=Profile%20Views&color=00d9ff&style=flat" alt="Profile Views" />
+I build backend-focused applications with Java and Django, and I break (then help fix) web applications through penetration testing. Currently sharpening my Data Structures & Algorithms and exploring React/Node.js. Open to **Software Development Engineer** and **Application Security** opportunities.
 
 </div>
 
-<br/>
+<br>
 
 ## About Me
 
-I'm a B.Tech Computer Science Engineering student specializing in **Cyber Security**, working toward becoming a **Software Engineer** with strong, security-conscious engineering fundamentals.
+- 🎓 B.Tech in Computer Science & Engineering (Cyber Security and Privacy) at DIT University, Dehradun
+- 🛡️ Cybersecurity Trainee Intern at Skillairo — hands-on with vulnerability assessment and web app security
+- 💻 Comfortable across the stack — from Java backends to Django web apps to network-level programming
+- 🧩 Consistent DSA practice on LeetCode and GeeksforGeeks
+- 📈 Learning in public, building in public — every project here is functional, not a template
 
-| | |
-|---|---|
-| **Focus** | Cyber Security, Java Development, DSA, System Design, Web Development |
-| **Currently Building** | Secure, database-driven web applications |
-| **Currently Strengthening** | Data Structures & Algorithms, System Design |
-| **Goal** | Software Engineering roles — internships & placements |
+<br>
 
-<br/>
+## 🔭 Currently Working On
 
-## Tech Stack
+- Strengthening DSA and problem-solving depth (Trees, Graphs, DP)
+- Building out backend-heavy Java and Django projects
+- Learning React and Node.js for full-stack capability
+- Practicing web app penetration testing with Burp Suite and OWASP ZAP
+- Refining Git/GitHub workflow for cleaner, more collaborative commits
 
-<div align="center">
+<br>
+
+## 🛠️ Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
+**Backend & Frameworks**
 
-**Tools & Environment**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+**Databases**
 
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
+**Cybersecurity**
 
-## GitHub Analytics
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E6?style=for-the-badge&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-84BD00?style=for-the-badge&logoColor=white)
 
-<div align="center">
+**Tools & Platform**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anurag-gg04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-gg04&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="https://streak-stats.demolab.com?user=Anurag-gg04&theme=tokyonight&hide_border=true" width="70%" />
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-gg04&theme=tokyo-night&hide_border=true" width="90%" />
+## 🚀 Featured Projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anurag-gg04&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" width="90%" />
-
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag-gg04/Anurag-gg04/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag-gg04/Anurag-gg04/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anurag-gg04/Anurag-gg04/output/github-contribution-grid-snake.svg" width="90%" />
-</picture>
-
-</div>
-
-<br/>
-
-## Live Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anurag-gg04/Anurag-gg04/main/github-metrics.svg" alt="GitHub Metrics" width="65%" />
-
-</div>
-
-<br/>
-
-## Featured Projects
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### Secure Bank Management System
+**🎓 Campus Placement Tracker**
+Django platform with authentication, student dashboards, eligibility checking, and interview scheduling.
 
-A secure banking web application featuring authentication, account management, and core banking operations.
+`Django` `Python` `MySQL` `Authentication`
 
-<img src="https://skillicons.dev/icons?i=java" height="28"/>
-
-**[View Repository →](https://github.com/Anurag-gg04/secure-bank-management-system)**
+[Repository](YOUR_REPOSITORY_URL)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### Expense Tracker
+**🎬 Online Movie Ticket Booking System**
+Full web application with database integration and structured backend architecture.
 
-A responsive expense tracking application with an intuitive dashboard for managing daily income, expenses, and visual analytics.
+`Django` `Python` `MySQL`
 
-<img src="https://skillicons.dev/icons?i=js,html,css" height="28"/>
+[Repository](YOUR_REPOSITORY_URL)
 
-**[View Repository →](https://github.com/Anurag-gg04/Expense-Tracker-)**
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏦 Java Banking Application**
+Console-based banking system handling deposits, withdrawals, and balance management.
+
+`Java` `OOP`
+
+[Repository](YOUR_REPOSITORY_URL)
+
+</td>
+<td width="50%">
+
+**💰 Java Expense Tracker**
+Application for logging and managing personal expenses and transaction history.
+
+`Java` `OOP`
+
+[Repository](YOUR_REPOSITORY_URL)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📡 TCP Pub-Sub Messaging System**
+Client/server messaging system built over TCP sockets, demonstrating core networking concepts.
+
+`Java` `Networking` `Sockets`
+
+[Repository](YOUR_REPOSITORY_URL)
+
+</td>
+<td width="50%">
+
+**🔐 Image Steganography GUI**
+Security-focused GUI tool for hiding and extracting information within image files.
+
+`Java` `Security` `GUI`
+
+[Repository](YOUR_REPOSITORY_URL)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🚌 Bus Reservation System**
+C-based reservation system for managing seat bookings and passenger data.
+
+`C` `Data Management`
+
+[Repository](YOUR_REPOSITORY_URL)
+
+</td>
+<td width="50%">
+
+**🌐 Web Portfolio**
+Personal portfolio site built with core web technologies.
+
+`HTML` `CSS` `JavaScript`
+
+[Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_LIVE_DEMO_URL)
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
-## Connect
+## 🧠 DSA & Problem Solving
 
-<div align="center">
+Actively practicing data structures and algorithms with a focus on interview-level problem solving.
 
-<a href="https://www.linkedin.com/in/anurag1330" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:tomaranurag724@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Anurag-gg04" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Platforms:** [LeetCode](YOUR_LEETCODE_URL) · [GeeksforGeeks](YOUR_GFG_URL)
 
-</div>
+**Topics covered:** Arrays · Strings · Two Pointers · Searching · Sorting · Linked Lists · Stacks · Queues · Trees · Graphs · Dynamic Programming
 
-<br/>
+<br>
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-*Great systems are not just built to work — they're built to withstand failure.*
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
-<br/>
+<details>
+<summary><strong>📈 Contribution Activity Graph</strong></summary>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+</details>
+
+<br>
+
+## 🗺️ Developer Journey
+
+```
+🎓  Computer Science & Engineering — DIT University, Dehradun
+🔐  Cybersecurity & Privacy Specialization
+💻  Software Development Projects — Java, Django, Web
+🛡️  Cybersecurity Labs & Vulnerability Assessment
+📚  Continuous DSA & Problem Solving Practice
+🚀  Preparing for Software Engineering Opportunities
+```
+
+<br>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Building software. Securing it too.*
+
+</div>
